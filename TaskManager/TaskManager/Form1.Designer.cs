@@ -28,14 +28,12 @@
         /// </summary>
         private void InitializeComponent()
         {
-            components = new System.ComponentModel.Container();
             listViewTaskManager = new ListView();
             columnName = new ColumnHeader();
             columnId = new ColumnHeader();
             columnMemory = new ColumnHeader();
             columnVirtualMemory = new ColumnHeader();
             button1 = new Button();
-            timer1 = new System.Windows.Forms.Timer(components);
             SuspendLayout();
             // 
             // listViewTaskManager
@@ -74,11 +72,6 @@
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
-            // timer1
-            // 
-            timer1.Interval = 2000;
-            timer1.Tick += timer1_Tick;
-            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -88,6 +81,7 @@
             Controls.Add(listViewTaskManager);
             Name = "Form1";
             Text = "Form1";
+            Load += Form1_Load;
             ResumeLayout(false);
         }
 
@@ -98,7 +92,6 @@
         private ColumnHeader columnId;
         private ColumnHeader columnMemory;
         private Button button1;
-        private System.Windows.Forms.Timer timer1;
         private ColumnHeader columnVirtualMemory;
     }
 }

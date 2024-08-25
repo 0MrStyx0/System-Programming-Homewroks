@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Dovla_nd00\\SystemProgramming\\TaskManager\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5F97D70F-499E-4846-93D0-B76DB10294BD}|TaskManager\\TaskManager.csproj|c:\\users\\dovla_nd00\\systemprogramming\\taskmanager\\taskmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F97D70F-499E-4846-93D0-B76DB10294BD}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5F97D70F-499E-4846-93D0-B76DB10294BD}|TaskManager\\TaskManager.csproj|C:\\Users\\Dovla_nd00\\SystemProgramming\\TaskManager\\taskmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5F97D70F-499E-4846-93D0-B76DB10294BD}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F97D70F-499E-4846-93D0-B76DB10294BD}|TaskManager\\TaskManager.csproj|C:\\Users\\Dovla_nd00\\SystemProgramming\\TaskManager\\taskmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F97D70F-499E-4846-93D0-B76DB10294BD}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F97D70F-499E-4846-93D0-B76DB10294BD}|TaskManager\\TaskManager.csproj|c:\\users\\dovla_nd00\\systemprogramming\\taskmanager\\taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5F97D70F-499E-4846-93D0-B76DB10294BD}|TaskManager\\TaskManager.csproj|C:\\Users\\Dovla_nd00\\SystemProgramming\\TaskManager\\taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F97D70F-499E-4846-93D0-B76DB10294BD}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -32,35 +32,33 @@
               "RelativeDocumentMoniker": "TaskManager\\Program.cs",
               "ToolTip": "C:\\Users\\Dovla_nd00\\SystemProgramming\\TaskManager\\TaskManager\\Program.cs",
               "RelativeToolTip": "TaskManager\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T17:28:32.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T17:28:32.486Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Dovla_nd00\\SystemProgramming\\TaskManager\\TaskManager\\Form1.cs",
               "RelativeDocumentMoniker": "TaskManager\\Form1.cs",
               "ToolTip": "C:\\Users\\Dovla_nd00\\SystemProgramming\\TaskManager\\TaskManager\\Form1.cs",
               "RelativeToolTip": "TaskManager\\Form1.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAowD0AAAAAAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAEEAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-22T16:19:29.04Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Dovla_nd00\\SystemProgramming\\TaskManager\\TaskManager\\Form1.cs",
               "RelativeDocumentMoniker": "TaskManager\\Form1.cs",
               "ToolTip": "C:\\Users\\Dovla_nd00\\SystemProgramming\\TaskManager\\TaskManager\\Form1.cs [Design]",
               "RelativeToolTip": "TaskManager\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T16:01:37.422Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-08-22T16:01:37.422Z"
             }
           ]
         }
