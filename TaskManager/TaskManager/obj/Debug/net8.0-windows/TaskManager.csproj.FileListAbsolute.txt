@@ -1,0 +1,33 @@
+C:\Users\Dovla_nd00\SystemProgramming\TaskManager\TaskManager\bin\Debug\net8.0-windows\TaskManager.exe
+C:\Users\Dovla_nd00\SystemProgramming\TaskManager\TaskManager\bin\Debug\net8.0-windows\TaskManager.deps.json
+C:\Users\Dovla_nd00\SystemProgramming\TaskManager\TaskManager\bin\Debug\net8.0-windows\TaskManager.runtimeconfig.json
+C:\Users\Dovla_nd00\SystemProgramming\TaskManager\TaskManager\bin\Debug\net8.0-windows\TaskManager.dll
+C:\Users\Dovla_nd00\SystemProgramming\TaskManager\TaskManager\bin\Debug\net8.0-windows\TaskManager.pdb
+C:\Users\Dovla_nd00\SystemProgramming\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.Form1.resources
+C:\Users\Dovla_nd00\SystemProgramming\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.csproj.GenerateResource.cache
+C:\Users\Dovla_nd00\SystemProgramming\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dovla_nd00\SystemProgramming\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.AssemblyInfoInputs.cache
+C:\Users\Dovla_nd00\SystemProgramming\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.AssemblyInfo.cs
+C:\Users\Dovla_nd00\SystemProgramming\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\Dovla_nd00\SystemProgramming\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.dll
+C:\Users\Dovla_nd00\SystemProgramming\TaskManager\TaskManager\obj\Debug\net8.0-windows\refint\TaskManager.dll
+C:\Users\Dovla_nd00\SystemProgramming\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.pdb
+C:\Users\Dovla_nd00\SystemProgramming\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.genruntimeconfig.cache
+C:\Users\Dovla_nd00\SystemProgramming\TaskManager\TaskManager\obj\Debug\net8.0-windows\ref\TaskManager.dll
+C:\Users\PK\System Programming\System-Programming-Homewroks\TaskManager\TaskManager\bin\Debug\net8.0-windows\TaskManager.exe
+C:\Users\PK\System Programming\System-Programming-Homewroks\TaskManager\TaskManager\bin\Debug\net8.0-windows\TaskManager.deps.json
+C:\Users\PK\System Programming\System-Programming-Homewroks\TaskManager\TaskManager\bin\Debug\net8.0-windows\TaskManager.runtimeconfig.json
+C:\Users\PK\System Programming\System-Programming-Homewroks\TaskManager\TaskManager\bin\Debug\net8.0-windows\TaskManager.dll
+C:\Users\PK\System Programming\System-Programming-Homewroks\TaskManager\TaskManager\bin\Debug\net8.0-windows\TaskManager.pdb
+C:\Users\PK\System Programming\System-Programming-Homewroks\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.Form1.resources
+C:\Users\PK\System Programming\System-Programming-Homewroks\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.csproj.GenerateResource.cache
+C:\Users\PK\System Programming\System-Programming-Homewroks\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PK\System Programming\System-Programming-Homewroks\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.AssemblyInfoInputs.cache
+C:\Users\PK\System Programming\System-Programming-Homewroks\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.AssemblyInfo.cs
+C:\Users\PK\System Programming\System-Programming-Homewroks\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\PK\System Programming\System-Programming-Homewroks\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.sourcelink.json
+C:\Users\PK\System Programming\System-Programming-Homewroks\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.dll
+C:\Users\PK\System Programming\System-Programming-Homewroks\TaskManager\TaskManager\obj\Debug\net8.0-windows\refint\TaskManager.dll
+C:\Users\PK\System Programming\System-Programming-Homewroks\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.pdb
+C:\Users\PK\System Programming\System-Programming-Homewroks\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.genruntimeconfig.cache
+C:\Users\PK\System Programming\System-Programming-Homewroks\TaskManager\TaskManager\obj\Debug\net8.0-windows\ref\TaskManager.dll
