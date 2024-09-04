@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptorApp", "EncryptorApp\EncryptorApp.csproj", "{2D1DEE2F-3F59-4B43-8828-8C5C379ECFDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D1DEE2F-3F59-4B43-8828-8C5C379ECFDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D1DEE2F-3F59-4B43-8828-8C5C379ECFDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D1DEE2F-3F59-4B43-8828-8C5C379ECFDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D1DEE2F-3F59-4B43-8828-8C5C379ECFDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6455410D-2A26-4E79-866D-01A76EDC4C9A}
+	EndGlobalSection
+EndGlobal
